@@ -5,4 +5,4 @@ I will begin my journey by writing everything myself, and only later use librari
 This will also be my first project in which I use Python, which might make for some interresting code.
 
 ## Tools
-Python 3.
+Python 3.6
