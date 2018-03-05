@@ -6,3 +6,7 @@ This will also be my first project in which I use Python, which might make for s
 
 ## Tools
 Python 3.6
+
+### following libraries are imported solely for visualisation purposes.
+graphics.py from http://mcsp.wartburg.edu/zelle/python/
+tkinter since graphics.py relies on this.
